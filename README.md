@@ -1,6 +1,6 @@
 # chinook-shema
-* SChema where can look at chinook shema where are 11 tables. 
-* each table has same id, name or smth that discribes element and data type. Extra can be lenght, index (primary, unique, index, full text, spatial)
+* Chinook shema where are 11 tables. 
+* Each table has same id, name or smth that discribes element and data type. Extra can be lenght, index (primary, unique, index, full text, spatial)
 * I made a table (name=clarify) where described (int, vchar, unique, pirm key, foreign key, autoincrement, not null, default) meaning.
 
 * At link my schema at lucidchart
